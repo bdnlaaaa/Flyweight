@@ -1,0 +1,15 @@
+D:\С#\Flyweight\Flyweight\bin\Debug\net6.0\Flyweight.exe
+D:\С#\Flyweight\Flyweight\bin\Debug\net6.0\Flyweight.deps.json
+D:\С#\Flyweight\Flyweight\bin\Debug\net6.0\Flyweight.runtimeconfig.json
+D:\С#\Flyweight\Flyweight\bin\Debug\net6.0\Flyweight.dll
+D:\С#\Flyweight\Flyweight\bin\Debug\net6.0\ref\Flyweight.dll
+D:\С#\Flyweight\Flyweight\bin\Debug\net6.0\Flyweight.pdb
+D:\С#\Flyweight\Flyweight\obj\Debug\net6.0\Flyweight.csproj.AssemblyReference.cache
+D:\С#\Flyweight\Flyweight\obj\Debug\net6.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Flyweight\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfoInputs.cache
+D:\С#\Flyweight\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfo.cs
+D:\С#\Flyweight\Flyweight\obj\Debug\net6.0\Flyweight.csproj.CoreCompileInputs.cache
+D:\С#\Flyweight\Flyweight\obj\Debug\net6.0\Flyweight.dll
+D:\С#\Flyweight\Flyweight\obj\Debug\net6.0\ref\Flyweight.dll
+D:\С#\Flyweight\Flyweight\obj\Debug\net6.0\Flyweight.pdb
+D:\С#\Flyweight\Flyweight\obj\Debug\net6.0\Flyweight.genruntimeconfig.cache
